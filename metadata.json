@@ -1,0 +1,7 @@
+{
+  "name": "ResolveLUT Studio",
+  "description": "Generator profesional de LUT-uri 3D (.cube) pentru DaVinci Resolve Studio cu roți de culoare, curbe RGB, emulări de film și osciloscoape video în timp real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
